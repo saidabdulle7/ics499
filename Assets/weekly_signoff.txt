@@ -2,17 +2,18 @@ ICS 499 Capstone Project Weekly Signoff Sheet
 
 Project Title: 
 
-Team Name: ___________
+Team Name: _Team 9__________
 
-Student Name:    ________________
+Student Name:    Said Abdulle________________
        
-Final Project Iteration Number:     _____
+Final Project Iteration Number:     FP5_____
 
-Reviewed the weekly progress with the instructor:  [ ] Yes   [  ] No
+Reviewed the weekly progress with the instructor:  [X ] Yes   [  ] No
 
 
 Weekly Contribution:  Please provide a summary of your contributions to the project during this week. Be specific about tasks, responsibilities, and any challenges you encountered. Describe how your work benefited the overall team and project.
 
+Integrated Claude API and created promtps for business intelligence recommendations. We also generated structured report suggestions. For next week, we need to ensure that the front-end is connected to the back-end to implement file upload functionality. A major challenge was issues with running main_data.py file due to a module error in VSCode. Will work on resolving that issue ASAP.
 
 
 
@@ -20,8 +21,8 @@ Weekly Contribution:  Please provide a summary of your contributions to the proj
 
 
 
-Did you give the demo of this iteration?  [   ]  Yes       [  ]  No         
-      
+Did you give the demo of this iteration?  [   ]  Yes       [ X ]  No         
+
 Note 1:   It is not good enough to submit the weekly signoff. You get full credit only if you demo your work in the breakout room.  It is also OK if your team demonstrates your work on your behalf
 Note 2: If you are absent, and if your team couldn’t demonstrate your work, then you earn only partial credit at instructor’s discretion.
  
