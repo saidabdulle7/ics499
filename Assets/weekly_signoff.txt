@@ -2,25 +2,24 @@ ICS 499 Capstone Project Weekly Signoff Sheet
 
 Project Title: 
 
-Team Name: ___________
+Team Name: _Team 9__________
 
-Student Name:    ________________
+Student Name:    _Said Abdulle_______________
        
-Final Project Iteration Number:     _____
+Final Project Iteration Number:    FP8
 
-Reviewed the weekly progress with the instructor:  [ ] Yes   [  ] No
+Reviewed the weekly progress with the instructor:  [X ] Yes   [  ] No
 
 
 Weekly Contribution:  Please provide a summary of your contributions to the project during this week. Be specific about tasks, responsibilities, and any challenges you encountered. Describe how your work benefited the overall team and project.
 
+Hello, so I attempted to make the project into a more asynchronous web application. I updated data_loader.py to ensure that it is forcing pandas to read all worksheets. Each worksheet is now treated as an independent dataset. I also integrated react for front-end modernization and made new files called UploadDashboard.jsx, SettingDasgboard.jsx, App.jsx, main,jsx, and ReportsDashboard.jsx. This file should introduce SSE connection and updates UI progress bar. Challenges were ensuring the export function worked properly and make the reports tab more organized and visually appealing.
 
 
 
 
 
-
-
-Did you give the demo of this iteration?  [   ]  Yes       [  ]  No         
+Did you give the demo of this iteration?  [  X ]  Yes       [  ]  No         
       
 Note 1:   It is not good enough to submit the weekly signoff. You get full credit only if you demo your work in the breakout room.  It is also OK if your team demonstrates your work on your behalf
 Note 2: If you are absent, and if your team couldn’t demonstrate your work, then you earn only partial credit at instructor’s discretion.
