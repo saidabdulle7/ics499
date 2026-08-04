@@ -2,25 +2,25 @@ ICS 499 Capstone Project Weekly Signoff Sheet
 
 Project Title: 
 
-Team Name: ___________
+Team Name: _Team 9__________
 
-Student Name:    ________________
+Student Name:    __Said Abdulle______________
        
-Final Project Iteration Number:     _____
+Final Project Iteration Number:     _FP10____
 
-Reviewed the weekly progress with the instructor:  [ ] Yes   [  ] No
+Reviewed the weekly progress with the instructor:  [X ] Yes   [  ] No
 
 
 Weekly Contribution:  Please provide a summary of your contributions to the project during this week. Be specific about tasks, responsibilities, and any challenges you encountered. Describe how your work benefited the overall team and project.
 
+This week we have implemented a dev tab where the reports are rebuilt from the saved workbook by the pipeline. Generating one opens it on the reports tab, where the session is waiting behind a "Back to my session" button. The report tab was also updated to that you can compare all three reports can see the similarities and differences. Biggest challenge was ensuring that the number of rows and columns in the dataset set are not assumed. 
 
 
 
 
 
 
-
-Did you give the demo of this iteration?  [   ]  Yes       [  ]  No         
+Did you give the demo of this iteration?  [ X  ]  Yes       [  ]  No         
       
 Note 1:   It is not good enough to submit the weekly signoff. You get full credit only if you demo your work in the breakout room.  It is also OK if your team demonstrates your work on your behalf
 Note 2: If you are absent, and if your team couldn’t demonstrate your work, then you earn only partial credit at instructor’s discretion.
